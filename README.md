@@ -1,3 +1,6 @@
+## Disclaimer 
+If this were a real app I would probably use Bun or Gorm instead of raw dogging sql :)
+
 # Setup
 
 This project requires a `gcc` compiler installed and the `protobuf` code generation tools.
